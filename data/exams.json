@@ -1,0 +1,58 @@
+[
+    {
+        "course": "PAI",
+        "duration": 120,
+        "id": "E1",
+        "officialTime": "Mon 08:00",
+        "slot": -1
+    },
+    {
+        "course": "NLP",
+        "duration": 120,
+        "id": "E2",
+        "officialTime": "Mon 11:00",
+        "slot": -1
+    },
+    {
+        "course": "OPT",
+        "duration": 120,
+        "id": "E3",
+        "officialTime": "Tue 08:00",
+        "slot": -1
+    },
+    {
+        "course": "ML",
+        "duration": 120,
+        "id": "E4",
+        "officialTime": "Tue 11:00",
+        "slot": -1
+    },
+    {
+        "course": "DL",
+        "duration": 120,
+        "id": "E5",
+        "officialTime": "Mon 08:00",
+        "slot": -1
+    },
+    {
+        "course": "STA",
+        "duration": 120,
+        "id": "E6",
+        "officialTime": "Tue 08:00",
+        "slot": -1
+    },
+    {
+        "course": "BD",
+        "duration": 120,
+        "id": "E7",
+        "officialTime": "Wed 08:00",
+        "slot": -1
+    },
+    {
+        "course": "CV",
+        "duration": 120,
+        "id": "E8",
+        "officialTime": "Wed 11:00",
+        "slot": -1
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "code": "PAI",
+        "credits": 4,
+        "title": "Programming for AI and ML"
+    },
+    {
+        "code": "NLP",
+        "credits": 4,
+        "title": "Natural Language Processing"
+    },
+    {
+        "code": "OPT",
+        "credits": 3,
+        "title": "Optimization"
+    },
+    {
+        "code": "ML",
+        "credits": 4,
+        "title": "Machine Learning"
+    },
+    {
+        "code": "DL",
+        "credits": 4,
+        "title": "Deep Learning"
+    },
+    {
+        "code": "STA",
+        "credits": 3,
+        "title": "Probability and Statistics"
+    },
+    {
+        "code": "BD",
+        "credits": 3,
+        "title": "Big Data"
+    },
+    {
+        "code": "CV",
+        "credits": 3,
+        "title": "Computer Vision"
+    }
+]

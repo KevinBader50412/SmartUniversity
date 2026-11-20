@@ -1,0 +1,54 @@
+[
+    {
+        "student": "S1",
+        "course": "BD"
+    },
+    {
+        "student": "S1",
+        "course": "NLP"
+    },
+    {
+        "student": "S1",
+        "course": "OPT"
+    },
+    {
+        "student": "S2",
+        "course": "CV"
+    },
+    {
+        "student": "S2",
+        "course": "DL"
+    },
+    {
+        "student": "S2",
+        "course": "STA"
+    },
+    {
+        "student": "S3",
+        "course": "NLP"
+    },
+    {
+        "student": "S3",
+        "course": "OPT"
+    },
+    {
+        "student": "S3",
+        "course": "PAI"
+    },
+    {
+        "student": "S4",
+        "course": "OPT"
+    },
+    {
+        "student": "S4",
+        "course": "STA"
+    },
+    {
+        "student": "S5",
+        "course": "BD"
+    },
+    {
+        "student": "S5",
+        "course": "ML"
+    }
+]

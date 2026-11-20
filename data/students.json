@@ -1,0 +1,27 @@
+[
+    {
+        "id": "S1",
+        "major": "AI",
+        "name": "Jason Bader"
+    },
+    {
+        "id": "S2",
+        "major": "AI",
+        "name": "Group Member 2"
+    },
+    {
+        "id": "S3",
+        "major": "AI",
+        "name": "Group Member 3"
+    },
+    {
+        "id": "S4",
+        "major": "Computer Science",
+        "name": "Rita Haddad"
+    },
+    {
+        "id": "S5",
+        "major": "Data Science",
+        "name": "Karim Nassar"
+    }
+]
